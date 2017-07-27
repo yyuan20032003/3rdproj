@@ -4,3 +4,6 @@ adding this line in feature1
 
 adding this line in feature2
 second line from feature1
+
+
+3rd line from feature1
